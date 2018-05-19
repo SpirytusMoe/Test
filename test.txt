@@ -1,2 +1,6 @@
 change1
+<<<<<<< HEAD
 master change
+=======
+master change
+>>>>>>> b1
