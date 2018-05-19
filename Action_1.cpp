@@ -3,6 +3,7 @@
 using namespace std;
 //
 //second
+//third
 struct signals{
 	const string set_URL;
 	const string set_Internet_channel;
