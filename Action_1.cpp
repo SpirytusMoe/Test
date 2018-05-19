@@ -2,6 +2,7 @@
 #include<string>
 using namespace std;
 //
+//second
 struct signals{
 	const string set_URL;
 	const string set_Internet_channel;
